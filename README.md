@@ -72,7 +72,9 @@ This repository contains the code and materials for the Applications of Machine 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+AWS LICENSE [License](LICENSE.pdf).
+
+![Alt Text](image.png)
 
 ## Acknowledgements
 
