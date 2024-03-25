@@ -13,3 +13,12 @@ ICBHI_final_database
 ICBHI_Challenge_diagnosis.csv
 ICBHI_challenge_train_test.txt
 lung.h5
+genome_2021
+ml-20m
+ml-20mx16x32
+ml-25m
+ml-latest
+ml-latest-small
+tag-genome_2021
+ml-20mx16x32.tar.md5
+tag-genome
